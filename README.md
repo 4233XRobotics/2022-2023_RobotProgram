@@ -21,5 +21,5 @@ Now that you understant the general structure of the files
 Consider the following:
 -> This code is built for a SPECIFIC ROBOT for the 2022-2023 SPIN UP GAME so this might not work for your robot
 -> The odometry may not work for future challenges
--> Some things may be inefficent because it is done by a middle school student
+-> Some things may be inefficent because it is done by a middle school student.
 Knowing all that you can now freely use my code with mentions!
